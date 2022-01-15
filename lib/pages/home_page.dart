@@ -9,6 +9,7 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title: Text("Uchiha clan"),
         centerTitle: true,
+        backgroundColor: Colors.grey[600],
       ),
       drawer: Drawer(),
       
